@@ -1,4 +1,4 @@
-class dogbreed
+class DogBreed
   initialize (breed)
 @breed = dalmatian 
 end 
