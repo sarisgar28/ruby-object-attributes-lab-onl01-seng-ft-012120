@@ -1,6 +1,6 @@
-def initialize? (name)
-  #name: fido =  ((Dog)).new 
-  @name  ((Dog)).new 
+def initialize? (Dog)
+  #name: fido =  (Dog).new 
+  @name= ((Dog)).new 
   
   
 end 
